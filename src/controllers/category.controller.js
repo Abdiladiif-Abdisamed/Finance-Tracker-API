@@ -1,3 +1,5 @@
+// category controller
+
 import Category from '../models/Category.js';
 
 export async function list(req, res, next) {

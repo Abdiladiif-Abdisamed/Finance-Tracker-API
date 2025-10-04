@@ -1,4 +1,6 @@
+// user controller
 import User from '../models/user.js';
+
 
 /**
  * GET /users/me

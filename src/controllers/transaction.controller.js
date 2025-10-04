@@ -1,3 +1,5 @@
+// transaction controller
+
 import Transaction from '../models/Transaction.js';
 
 export async function create(req, res, next) {
